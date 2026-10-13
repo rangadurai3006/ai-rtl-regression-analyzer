@@ -1,0 +1,7 @@
+
+Starting simulation...
+INFO: Reset sequence completed
+WARNING: UART receiver busy
+ERROR: Assertion failed: baud clock period mismatch
+TEST FAILED
+Simulation finished.
