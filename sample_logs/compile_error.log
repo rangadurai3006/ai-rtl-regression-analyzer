@@ -1,0 +1,6 @@
+
+Starting RTL compilation...
+INFO: Compiling uart_tx.v
+WARNING: Signal unused in module uart_tx
+ERROR: Syntax error near line 25
+Compilation failed.
